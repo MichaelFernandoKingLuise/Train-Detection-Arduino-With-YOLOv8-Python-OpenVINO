@@ -1,0 +1,1 @@
+This repository features a Python-based project for train detection utilizing the YOLOv8 object detection model and Intel’s OpenVINO toolkit. The system is designed to identify and track trains in video feeds with high accuracy and efficiency.
