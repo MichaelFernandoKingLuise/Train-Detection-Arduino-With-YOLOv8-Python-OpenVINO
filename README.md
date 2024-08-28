@@ -1,1 +1,1 @@
-This repository features a train detection system developed with YOLOv8, implemented in Python, and optimized using OpenVINO. The system utilizes YOLOv8 for detecting and tracking trains in video feeds, with performance improvements enabled by OpenVINO.
+This repository presents a train detection system developed using YOLOv8 and implemented in Python, with optimizations provided by OpenVINO. The system leverages YOLOv8 for detecting and tracking trains in video feeds, with enhanced performance achieved through OpenVINO integration
